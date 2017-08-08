@@ -8,7 +8,7 @@ var friends = [
 	},
 	{
 		"name": "Homer",
-		"photo": "https://pbs.twimg.com/profile_images/765263431318511617/HfUmI60s.jpg",
+		"photo": "http://cdn.caughtoffside.com/wp-content/uploads/2014/10/Homer-Simpson.jpg",
 		"scores": [5,5,5,5,5,5,5,5,5,5]
 		//55		
 	}
